@@ -5,6 +5,7 @@ package Cristian;
 	
 			saludo("Cristian");
 			hobbies();
+			comida();
 	
 }
 
@@ -18,6 +19,13 @@ package Cristian;
 		String hobbieTres = "nadar";
 		
 		System.out.println("Tres de mis hobbies son: " + hobbieUno + ", " + hobbieDos + " y " + hobbieTres);
+	}
+	public static void comida () {
+		String comidaUno = "Paella";
+		String comidaDos = "Aguacate";
+		String comidaTres = "Queso";
+		
+		System.out.println("Tres de mis hobbies son: " + comidaUno + ", " + comidaDos + " y " + comidaTres);
 	}
 	
 }
