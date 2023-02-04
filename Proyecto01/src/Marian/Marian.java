@@ -14,5 +14,10 @@ public class Marian {
 		System.out.println("- Pasar tiempo con mis demonietes: Blanca(3 años) y Lluc(13 meses)");
 		System.out.println("- Cantar");
 		System.out.println("- Aprender");
+		
+		System.out.println("Mis comidas favoritas son: ");
+		System.out.println("- Paella");
+		System.out.println("- Hamburguesas");
+		System.out.println("- Cachopo");
 	}
 }
