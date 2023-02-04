@@ -3,9 +3,16 @@ package Marian;
 public class Marian {
 
 	public static void main(String[] args) {
-		Saludo();
+		saludo();
+		mostrarHobbies();
 	}
-	private static void Saludo() {
+	private static void saludo() {
 		System.out.println("Hola, soy Maria Antònia");
+	}
+	private static void mostrarHobbies() {
+		System.out.println("Mis hobbies son:");
+		System.out.println("- Pasar tiempo con mis demonietes: Blanca(3 años) y Lluc(13 meses)");
+		System.out.println("- Cantar");
+		System.out.println("- Aprender");
 	}
 }
