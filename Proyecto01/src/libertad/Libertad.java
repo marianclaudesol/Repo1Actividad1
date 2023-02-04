@@ -10,6 +10,10 @@ public static void saludoNombre(String nombre) {
 public static void main(String[] args) {
 	saludoNombre("Libertad");
 	
+	System.out.println("Mis hobbies son:");
+	System.out.println("- Correr");
+	System.out.println("- Nadar");
+	System.out.println("- Viajar");
 	
 }
 }
