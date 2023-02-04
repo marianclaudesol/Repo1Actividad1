@@ -25,9 +25,9 @@ package Cristian;
 	
 	
 	public static void comidasFavoritas () {
-		String comidaUno = "arroz";
-		String comidaDos = "hamburguesas";
-		String comidaTres = "pasta";
+		String comidaUno = "lasaña";
+		String comidaDos = "arroz con verduras";
+		String comidaTres = "pizza";
 		
 		System.out.println("Mis tres platos favoritos son: " + comidaUno + ", " + comidaDos + " y " + comidaTres);
 
