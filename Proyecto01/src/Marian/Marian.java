@@ -18,8 +18,8 @@ public class Marian {
 	}
 	private static void mostrarComidas() {
 		System.out.println("Mis comidas favoritas son:");
-		System.out.println("- Paella");
 		System.out.println("- Ceviche");
+		System.out.println("- Torrada");
 		System.out.println("- Natillas");
 	}
 }
