@@ -15,16 +15,11 @@ public class Marian {
 		System.out.println("- Pasar tiempo con mis demonietes: Blanca(3 años) y Lluc(13 meses)");
 		System.out.println("- Cantar");
 		System.out.println("- Aprender");
-		
-		System.out.println("Mis comidas favoritas son: ");
-		System.out.println("- Paella");
-		System.out.println("- Hamburguesas");
-		System.out.println("- Cachopo");
 	}
 	private static void mostrarComidas() {
 		System.out.println("Mis comidas favoritas son:");
-		System.out.println("- Sushi");
-		System.out.println("- Solomillo Wellington");
-		System.out.println("- Lemon pie");
+		System.out.println("- Ceviche");
+		System.out.println("- Torrada");
+		System.out.println("- Natillas");
 	}
 }
