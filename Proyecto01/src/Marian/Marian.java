@@ -5,6 +5,7 @@ public class Marian {
 	public static void main(String[] args) {
 		saludo();
 		mostrarHobbies();
+		mostrarComidas();
 	}
 	private static void saludo() {
 		System.out.println("Hola, soy Maria Antònia");
@@ -19,5 +20,11 @@ public class Marian {
 		System.out.println("- Paella");
 		System.out.println("- Hamburguesas");
 		System.out.println("- Cachopo");
+	}
+	private static void mostrarComidas() {
+		System.out.println("Mis comidas favoritas son:");
+		System.out.println("- Sushi");
+		System.out.println("- Solomillo Wellington");
+		System.out.println("- Lemon pie");
 	}
 }
